@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ishita1304
+- 👋 Hi, I’m @ishita1304.
 - 👀 I’m interested in Deep Learning API, machine Learning Algorithm, Data Analaytics.
 - 🌱 I’m currently learning studying Machine Learning and Data Science
 - 📫 How to reach me... https://www.linkedin.com/in/ishita-shrivastav/
